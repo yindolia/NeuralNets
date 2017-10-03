@@ -1,5 +1,8 @@
 # NeuralNets
 
-Implimentation of basic __Feed-Forward Neural Network__ & a __Recurrent Neural Network__ using only first principle
+Implimentation of basic __Neural Networks__ (Mostly RNNs) using first principles and Tensorflow.
+Some also have used tfLearn
 
-Library used Numpy and Theano for Python
+Meant for learning and understanding purposes.
+
+Library used Numpy, Theano, Tensorflow, TFlearn in python.
